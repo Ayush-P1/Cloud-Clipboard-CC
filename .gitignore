@@ -1,0 +1,10 @@
+# Local Firebase config (contains your app keys/project identifiers)
+firebase-config.js
+supabase-config.js
+
+# Firebase local state
+.firebase/
+
+# OS/editor junk
+.DS_Store
+
